@@ -1,2 +1,2 @@
-this is main brnach c1
-this is main brnach c2
+this is main brnach C1
+this is main brnach C2
